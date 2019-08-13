@@ -1,0 +1,14 @@
+Git: Service
+GitHub: Platforms
+Pull Request
+GitLab: Platforms
+Merge Request
+1st. Create a GitHub or GitLab account.
+2nd. Create a new empty repository called appTest9a
+3st. Download and install Git: https://git-scm.com/
+4th. Configure GitHub/GitLab credentials in Git Bash:
+	$git config --global user.name “xxxxx”
+	$git config --global user.email xxxxxxx@gmail.com
+5. Clone repository:
+	Comment: Please, choose the directory where you want to clone the repository.
+	$git clone url(https or ssh)
