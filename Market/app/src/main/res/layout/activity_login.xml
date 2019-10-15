@@ -54,8 +54,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Sign in"
-            android:background="@color/colorBtnSignin"
-            android:layout_margin="5dp"/>
+            android:background="@color/colorBtnSignin"/>
 
         <Button
             android:id="@+id/button2"

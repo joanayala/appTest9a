@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Market</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_userlist">User list</string>
 </resources>
